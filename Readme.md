@@ -4,7 +4,7 @@ Requisitos generales:
 
 	2.- Cabecera (Header)
 
-	      Un tope (masthead) con información de contacto e íconos de redes sociales.
+	      Un tope (masthead) con información de contacto e íconos de redes sociales y fomulario para búsquedas.
 	      Un pendón (banner) para informaciones importantes que deban ser resaltadas.
 	      Una barra de navegación para el nombre, logo y menú desplegable.
 	      Una barra de navegación fija que contenga los links a las diferentes secciones informativas. 
@@ -29,6 +29,9 @@ Requisitos generales:
 
     5. Una barra de navegación fija lateral izquierda, fuera del contenido, con íconos de las Redes Sociales para que compartan la información. 
 
+    6.- Cada noticia tendrá al final un formulario para que los lectores puedan plasmar sus opiniones en comentarios.
+
+
 Requerimientos específicos visuales:
   
   	1.- Iconos (usar repositorio Font awesome)
@@ -38,3 +41,17 @@ Requerimientos específicos visuales:
   	5.- Imágenes (por ahora imágenes internet, después página muniquilicura)
   	6.- Fuentes seleccionadas (google fonts) Lato y Roboto, color de texto párrafos #626262
   	7.- Paleta de colores (especificada en la carpeta colors)
+
+
+  	Definiciones: 
+
+  	1.- Tema seleccionado: Página web para el periódico mensual "El Independiente" de la Municipalidad de Quilicura. 
+
+  	1.1.- Justificación: He decidido realizar el proyecto en base a una página web para "El Independiente", porque considero que aunque la Municipalidad de Quilicura cuenta con una página dónde son publicadas constantemente las noticias en informaciones referentes a la comuna, estas no se encuentran separadas por secciones y el hecho de tener que buscar una información específica se hace tedioso para el usuario, mientras que el contenido propio de "El Independiente" queda relegado a un link, en el que pueden ser visto o descargados los pdf, muchas veces desfasados. Por otro lado esta página puede ser de gran utilidad, porque permitiría ampliar la información publicada en el formato físico, además facilitaría una mayor iteracción por parte de los lectores al incluir la opción de comentarios y opiniones para cada información.
+
+    2.- Tipo de página: Página web estática informativa (sitio web de noticias) que facilite el consumo de informaciones y permita las opiniones.
+
+    3.- Maquetas: 
+
+     1. Desktop ![](Proyectofinal/img/Desktop.jpg)
+     2. Mobile ![](Proyectofinal/img/Mobile.jpg)
