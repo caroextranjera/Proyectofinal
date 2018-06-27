@@ -18,7 +18,7 @@ Requisitos generales:
           3.- Elementos multimedia para mostrar los vídeos del noticiero. 
           4.- Encabezados para las cápsulas multimedia.
 
-          Una columna pequeña tipo barra lateral que se dividirá en 3 secciones. 
+          Una columna pequeña tipo barra lateral derecha que se dividirá en 3 secciones. 
           1.- Edición impresa para mostrar los pdf. 
           2.- Resumen de las redes sociales.
           3.- Próximos eventos destacados.
@@ -27,5 +27,14 @@ Requisitos generales:
 
           Con links a la edición impresa, redes sociales y la dirección. 
 
-    5. Una barra de navegación fija lateral, fuera del contenido, con íconos de las Redes Sociales para que compartan la información. 
+    5. Una barra de navegación fija lateral izquierda, fuera del contenido, con íconos de las Redes Sociales para que compartan la información. 
 
+Requerimientos específicos visuales:
+  
+  	1.- Iconos (usar repositorio Font awesome)
+  	2.- Vídeos noticiero y cápsulas ( por ahora youtube, después página muniquilicura)
+  	3.- Titulos y párrafos (por ahora Lorem ipsu, después material informativo)
+  	4.- Secciones (boostrap)
+  	5.- Imágenes (por ahora imágenes internet, después página muniquilicura)
+  	6.- Fuentes seleccionadas (google fonts) Lato y Roboto, color de texto párrafos #626262
+  	7.- Paleta de colores (especificada en la carpeta colors)
