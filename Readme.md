@@ -52,7 +52,7 @@ Definiciones:
 
 3.- Maquetas: 
 
-Desktop ![](Proyectofinal/img/Desktop.jpg)
+Desktop ![](img/Desktop.jpg)
 
 Mobile ![](Proyectofinal/img/Mobile.jpg)
 
