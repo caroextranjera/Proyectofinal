@@ -54,7 +54,7 @@ Definiciones:
 
 Desktop ![](img/Desktop.jpg)
 
-Mobile ![](Proyectofinal/img/Mobile.jpg)
+Mobile ![](img/Mobile.jpg)
 
-Internas ![](Proyectofinal/img/internas.jpg)
+Internas ![](img/internas.jpg)
 
