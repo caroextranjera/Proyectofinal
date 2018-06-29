@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
+
+
+
 .navbar-light{
    margin-left: 10%;
    margin-right: 10%;
-   background-color: #008080;
+   background-color: #9acd32;
 }
 
 .container-banner{
@@ -14,23 +18,37 @@
     text-align: center;
 }
 
+.pos h1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 5rem;
+	color: #1fada6;
+	text-align: center;
+
+}
+
+.pos p {
+	color: #1fada6;
+	text-align: right;
+}
 .pos {
    margin-left: 10%;
    margin-right: 10%;
-   background-color: #1fada6;
+   background-color: #ffffff;
    height: 100px;
-   color: #ffffff;
+   
 }
 
-.navbar-dark{
-	padding-right: 600px;
-}
 
 .navbar-expand{
-	background: #9acd32;
+	background: #1fada6;
 	margin-left: 10%;
     margin-right: 10%;
 
+}
+
+i {
+color: #1fada6;
+font-size: 4rem;
 }
 
 .navbar-nav{
@@ -38,8 +56,11 @@
 	box-sizing: border-box;
 }
 
-.nav-item{
+.navbar-nav a {
 	padding-left: 30px;
+	font-family: 'Lato', sans-serif;
+	color: #ffffff;
+	font-size: 1rem;
 }
 
 .container-new{

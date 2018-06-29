@@ -53,5 +53,9 @@ Requerimientos específicos visuales:
 
     3.- Maquetas: 
 
-     1. Desktop ![](img/Desktop.jpg)
-     2. Mobile ![](img/Mobile.jpg)
+Desktop ![](Proyectofinal/img/Desktop.jpg)
+
+Mobile ![](Proyectofinal/img/Mobile.jpg)
+
+Internas ![](Proyectofinal/img/internas.jpg)
+
