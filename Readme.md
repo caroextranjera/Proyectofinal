@@ -54,11 +54,11 @@ Definiciones:
 
 3.- Maquetas: 
 
-Desktop ![](Proyectofinal/img/Desktop.jpg)
+Desktop ![](img/Desktop.jpg)
 
-Mobile ![](Proyectofinal/img/Mobile.jpg)
+Mobile ![](img/Mobile.jpg)
 
-Internas ![](Proyectofinal/img/internas.jpg)
+Internas ![](img/internas.jpg)
 
 4.- Objetivos de la interfaz (UI): El objetivo principal de la interfaz es facilitar a la comunidad la búsqueda de información organizada de acuerdo a las secciones, aprovechando que la edición impresa del periodico es conocida, para ello fue incluido un formulario de búsqueda, además de links a cada una de las secciones.
 
