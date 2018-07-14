@@ -1,14 +1,16 @@
 Requisitos generales: 
 
-1.- Una página web estática - informativa
+1.- Una página web tipo Portal - informativa
 
-2.- Cabecera (Header)
+2.- Layout: La información estará organizada en dos columnas, una correspondiente a Section y otra Aside.
+
+3.- Cabecera (Header)
 
  Un tope (masthead) con información de contacto e íconos de redes sociales y fomulario para búsquedas. Un pendón (banner) para informaciones importantes que deban ser resaltadas.
 Una barra de navegación para el nombre, logo y menú desplegable.
 Una barra de navegación fija que contenga los links a las diferentes secciones informativas. 
 
-3.- Cuerpo (Body)
+4.- Cuerpo (Body)
 
 El cuerpo estará dividido en dos columnas: 
 Una columna grande de contenido que se dividirá en 4 secciones:
@@ -58,3 +60,8 @@ Mobile ![](Proyectofinal/img/Mobile.jpg)
 
 Internas ![](Proyectofinal/img/internas.jpg)
 
+4.- Objetivos de la interfaz (UI): El objetivo principal de la interfaz es facilitar a la comunidad la búsqueda de información organizada de acuerdo a las secciones, aprovechando que la edición impresa del periodico es conocida, para ello fue incluido un formulario de búsqueda, además de links a cada una de las secciones.
+
+5.- Experiencia del usuario: Considero que la interfaz facilitará la búsqueda de información, además permitirá que exista una interacción en los comentarios y solicitudes de los lectores. 
+
+	Comentarios: Hola, gracias por la explicación de las grillas, creo que mejoré. Mi intención es que el menu desaparezca en los moviles y que pueda ser desplegado en el Toggler, pero por ahora no pude hacerlo funcionar. 
