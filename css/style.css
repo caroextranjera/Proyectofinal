@@ -56,9 +56,7 @@ span{
 #menu{
 	background-color: #cd5c5c;
 	height: 50px;
-	position: fixed;
-	z-index: 1001;
-	width: 80%;
+	
 }
 
 .carousel-inner img{
@@ -71,19 +69,31 @@ span{
     height: 600px;
 }
 
-footer{
+footer {
 	background-color: #1fada6;
 	height: 50px;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-left: 25%;
 }
+
 
 #menu h3{
-	color: #ffffff;
-	font-size: 1rem;
+	color: #ffff;
+	font-size: 1.2rem;
 	margin-top: 15px;
+	text-align: center;
 
 }
+
+#article h3{
+	color: 
+}
+
 .view{
 	margin-top: 50px;
+	text-align: center;
+	color: #008080;
 }
 
 .view img{
@@ -93,10 +103,14 @@ footer{
 
 .next{
 	margin-top: 150px;
+	color:#df7020;
+	font-size: 0.9rem;
 }
 
 .next h2{
 	margin-top: 50px;
+	text-align: center;
+	color: #008080;
 }
 
 .next-li{
@@ -106,7 +120,16 @@ footer{
 
 .media{
 	margin-top: 150px;
+	display: block;
 }
+
+.redes{
+	margin-top: 50px;
+	margin-bottom: 25px;
+	text-align: center;
+	color: #008080;
+}
+
 
 
 @media(max-width: 1140px){
