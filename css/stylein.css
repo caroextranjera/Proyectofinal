@@ -23,7 +23,6 @@
 #banner img{
 	width: 100%;
 }
-
 #nav{
 	background-color: #ffffff;
 	height: 100px;
@@ -48,22 +47,17 @@ span{
 	color: #9acd32;
 }
 
-.navbar-toggler{
-	margin-top: 5px;
+.fas{
+	margin-top: 25px;
 	font-size: 4rem;
 }
+
 
 #menu{
 	background-color: #cd5c5c;
 	height: 50px;
 	
 }
-
-.carousel-inner img{
-	width: 100%;
-	height: 100%;
-}
-
 .view img{
 	width: 100%;
     height: 600px;
@@ -75,14 +69,6 @@ footer {
 	color: #ffffff;
 	padding-top: 10px;
 	text-align: center;
-}
-
-#aside{
-	background-color: #91eea8;
-}
-
-#section{
-	background-color: #E6E6FA;
 }
 
 
@@ -97,7 +83,6 @@ footer {
 #article h3{
 	color: 
 }
-
 .view{
 	margin-top: 50px;
 	text-align: center;
@@ -108,24 +93,6 @@ footer {
 	margin-top: 50px;
 	height: 500px;
 }
-
-.next{
-	margin-top: 150px;
-	color:#df7020;
-	font-size: 0.9rem;
-}
-
-.next h2{
-	margin-top: 50px;
-	text-align: center;
-	color: #008080;
-}
-
-.next-li{
-	margin-top: 50px;
-	margin-bottom: 50px;
-}
-
 .media{
 	margin-top: 150px;
 	display: block;
@@ -138,7 +105,9 @@ footer {
 	color: #008080;
 }
 
-
+#aside{
+	background-color: #9acd32;
+}
 
 @media(max-width: 1140px){
 	#nav h1{
@@ -185,7 +154,5 @@ footer {
 	}
 	.navbar-toggler{
 	font-size: 2rem;
-
-}
-
+    }
 }
