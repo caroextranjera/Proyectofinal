@@ -9,6 +9,11 @@
 
 }
 
+i.fas.fa-bars {
+	font-size: 60px !important;
+	margin-top: 25px;
+}
+
 #contac h3{
 	color: #ffffff;
 	font-size: 1.2rem;
@@ -27,6 +32,11 @@
 #nav{
 	background-color: #ffffff;
 	height: 100px;
+}
+
+.carousel-item span{
+	color: #1affff;
+	font-size: 3rem;
 }
 
 #nav h1{
@@ -62,6 +72,11 @@ span{
 .carousel-inner img{
 	width: 100%;
 	height: 100%;
+}
+
+.carousel-item a {
+	font-size: 1.5rem;
+	color: #ffffff;
 }
 
 .view img{

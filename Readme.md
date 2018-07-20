@@ -60,8 +60,7 @@ Mobile ![](img/Mobile.jpg)
 
 Internas ![](img/internas.jpg)
 
-4.- Objetivos de la interfaz (UI): El objetivo principal de la interfaz es facilitar a la comunidad la búsqueda de información organizada de acuerdo a las secciones, aprovechando que la edición impresa del periodico es conocida, para ello fue incluido un formulario de búsqueda, además de links a cada una de las secciones.
+4.- Objetivos de la interfaz (UI): El objetivo principal de la interfaz es facilitar a la comunidad la búsqueda de información organizada de acuerdo a las secciones, aprovechando que la edición impresa del periodico es conocida, para ello fue incluido un formulario de búsqueda, además de links a cada una de las secciones. La interfaz de usuario va a ser familiar, simple y coherente.
 
 5.- Experiencia del usuario: Considero que la interfaz facilitará la búsqueda de información, además permitirá que exista una interacción en los comentarios y solicitudes de los lectores. 
 
-	Comentarios: Hola, gracias por la explicación de las grillas, creo que mejoré. Mi intención es que el menu desaparezca en los moviles y que pueda ser desplegado en el Toggler, pero por ahora no pude hacerlo funcionar. 
